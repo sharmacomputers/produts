@@ -1,0 +1,26 @@
+sharma_computers/
+│
+├── admin/
+│   ├── login.php
+│   ├── dashboard.php
+│   ├── add_product.php
+│   └── edit_product.php
+│
+├── assets/
+│   ├── css/
+│   ├── js/
+│   └── images/
+│
+├── includes/
+│   ├── db.php
+│   └── functions.php
+│
+├── user/
+│   ├── register.php
+│   ├── login.php
+│   ├── cart.php
+│   ├── checkout.php
+│   └── order_history.php
+│
+├── index.php
+└── product.php
